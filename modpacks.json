@@ -18,12 +18,12 @@
     "modpackJsonUrl": "https://example.com/zindanlar-sihir.json"
   },
   {
-    "name": "Vanilla Plus",
-    "description": "Oyunun orijinal ruhunu bozmadan ufak dokunuşlar ekleyen bir paket.",
-    "version": "1.1.2",
-    "loader": "vanilla",
+    "name": "Origins",
+    "description": "A mod pack that reduces the monotony of the vanilla game by adding multiple player types.",
+    "version": "1.0.0",
+    "loader": "fabric",
     "mcVersion": "1.21",
-    "modpackJsonUrl": "https://example.com/vanilla-plus.json"
+    "modpackJsonUrl": "https://raw.githubusercontent.com/Yaman-the-coder/aqua-launcher/refs/heads/main/origins.json"
   }
 ]
 
