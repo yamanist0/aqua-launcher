@@ -2,7 +2,7 @@
   {
     "name": "Origins",
     "description": "A mod pack that reduces the monotony of the vanilla game by adding multiple player types.",
-    "version": "1.1.0",
+    "version": "1.1.5",
     "loader": "fabric",
     "mcVersion": "1.20.1",
     "modpackJsonUrl": "https://raw.githubusercontent.com/Yaman-the-coder/aqua-launcher/refs/heads/main/origins.json"
